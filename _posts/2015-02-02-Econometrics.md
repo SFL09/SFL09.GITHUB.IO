@@ -10,9 +10,9 @@ redirect_from:
 
 ## Econometrics
 The Hill-Burton program, a large-scale hospital construction program that started in the 1940s, studies the nature of competition in the hospital industry. To investigate whether the built state-level allocation formula was predictive of actual funding allocations, I analyzed the following datasets: 
-- [Per capita personal income for 1943-1962](https://github.com/SFL09/SFL09.GITHUB.IO/files/6094457/Cap.txt);
-- [Population for 1947-1964](https://github.com/SFL09/SFL09.GITHUB.IO/files/6094459/Pop.txt);
-- [Hill-Burton Project Register data](https://github.com/SFL09/SFL09.GITHUB.IO/files/6094453/HB.txt).
+- [Per capita personal income for 1943-1962](https://github.com/SFL09/SFL09.GITHUB.IO/files/6096404/Cap.txt);
+- [Population for 1947-1964](https://github.com/SFL09/SFL09.GITHUB.IO/files/6096406/Pop.txt);
+- [Hill-Burton Project Register data](https://github.com/SFL09/SFL09.GITHUB.IO/files/6096407/HB.txt).
 
 
 ### The Workflow of Data: 
