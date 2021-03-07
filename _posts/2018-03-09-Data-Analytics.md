@@ -50,7 +50,7 @@ save(data, "names.csv")
 ```
 
 ### 1st Fun Fact
-For some states, including AZ, AL, and AR, **Ada** became a popular name in 1984, 2003, and 2013.
+In AZ, AL, and AR, Ada became a popular name in 1984, 2003, and 2013.
 
 ### 2nd Fun Fact
 Alaska tended to adopt **Ada** in 2014 after **Ada** gained popularity in other states.
