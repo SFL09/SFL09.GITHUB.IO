@@ -3,7 +3,7 @@ layout: post
 title: "Web Scraping - SEC EDGAR"
 description: "Extracted large amounts of data from SEC EDGAR."
 categories: [DataScience]
-tags: [SEC EDGAR, Web Scraping]
+tags: [SEC EDGAR, Web Scraping, Python]
 redirect_from:
   - /2017/09/09/
 ---
