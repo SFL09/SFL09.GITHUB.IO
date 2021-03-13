@@ -11,7 +11,7 @@ redirect_from:
 ## Equity Research
 
 
-### Shenhua Valuation
+### Shenhua
 Shenhua’s FY17 NP of RMB47.8bn is in line with the consensus (RMB47bn). The 35% hike almost entirely drove the 92% YoY growth in net profit in coal price in 2017. Profit contribution from other segments was slightly up (transportation, port, shipping), while power was down. 4Q net profit was down by 17% from 3Q despite a higher coal price environment due to impairment charges. While 1Q18 earnings growth momentum should remain decent on 18% YoY growth in coal price, earnings growth momentum should slow in 2Q18 and potentially decline in 2H18 as coal prices ease. I expect coal prices to fall to ~ RMB600/ton by the end of 2018.
 
 - **Strong 2017 profitability driven by higher coal prices:** Commercial coal production grew slightly from 289.6 mt in 2016 to 295.4 mt (1.9% YoY), and coal sales increased by 12.4% YoY and reached 443.8 mt. Coal revenue sales were up by 49% YoY, driven by ~35% YoY increase in ASP.
