@@ -35,13 +35,8 @@ redirect_from:
 #### Table 5: Sector data
 <img width="756" alt="X555" src="https://user-images.githubusercontent.com/41026089/88499445-d641cc80-cf93-11ea-81a6-26e293a7b8e0.png">
 
-### Table Note
-- The fiscal year ends Dec.
-- o/w - out of which
-- $ in millions (except per-share data)
-
 ### Investment Thesis
-I remain Neutral. XOM has several differentiating defensive characteristics, including a top-tier FCF/dividend coverage ratio and below-average financial leverage, both of which are aided by its integrated model that delivers strong FCF from its refining and chemicals businesses. This should allow XOM to act relatively defensively in a potentially lower-for-longer oil price environment. XOM has faced declining Upstream production on a y/y basis for five straight quarters, which I think has been a weight on the stock. Thus, improved execution here will be key to share price upside, in my view. One additional lever to watch for XOM is acquisitions (e.g., recent Permian acquisition), as the opportunity to add inorganic reserves could grow as the cycle continues to play out, particularly if the E&P sector continues to struggle. On capital allocation, I believe XOM's dividend yield is reasonably attractive; however, I do not expect buybacks to be reinstated in the near to medium term, which could limit investor urgency to buy shares.
+According to the summary of financials above (Note: $ in millions (except per-share data). o/w - out of which. The fiscal year ends Dec.), I remain Neutral. XOM has several differentiating defensive characteristics, including a top-tier FCF/dividend coverage ratio and below-average financial leverage, both of which are aided by its integrated model that delivers strong FCF from its refining and chemicals businesses. This should allow XOM to act relatively defensively in a potentially lower-for-longer oil price environment. XOM has faced declining Upstream production on a y/y basis for five straight quarters, which I think has been a weight on the stock. Thus, improved execution here will be key to share price upside, in my view. One additional lever to watch for XOM is acquisitions (e.g., recent Permian acquisition), as the opportunity to add inorganic reserves could grow as the cycle continues to play out, particularly if the E&P sector continues to struggle. On capital allocation, I believe XOM's dividend yield is reasonably attractive; however, I do not expect buybacks to be reinstated in the near to medium term, which could limit investor urgency to buy shares.
 
 ### Valuation
 I lower my Dec 2018 price target of $83 to $81. My Dec 2018 price target of $81 is based on a target FY22E sustaining FCF yield of ~5.5%, in line with historical averages and below those of similarly levered US peers (implies a ~4.3% dividend yield target), reflecting XOM's best-in-class free cash flow profile and balance sheet
