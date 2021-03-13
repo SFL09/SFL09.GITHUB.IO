@@ -22,7 +22,7 @@ redirect_from:
 
 #### Table 1: Income Statement - Annual
 <img width="756" alt="X111" src="https://user-images.githubusercontent.com/41026089/88499379-a72b5b00-cf93-11ea-8cd2-b78d3490ac79.png">
-######## Note: $ in millions (except per-share data).
+###### Note: $ in millions (except per-share data).
 
 #### Table 2: Income Statement - Quarterly
 <img width="756" alt="X222" src="https://user-images.githubusercontent.com/41026089/88499401-b6120d80-cf93-11ea-8f17-660b38c02a4d.png">
