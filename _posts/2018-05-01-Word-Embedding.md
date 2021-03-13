@@ -25,7 +25,7 @@ redirect_from:
 ![Autoencoder](https://user-images.githubusercontent.com/76184559/108605883-e2083c80-7384-11eb-877a-79f81506d65f.jpg)
 
 ### Results
-- The `accuracy` is **97.9600%** after `45 epoch.`
+- The initial accuracy is **97.9600%** after 45 epoch.
 
 ```python
    Extracting MNIST_data/train-images-idx3-ubyte.gz
@@ -35,7 +35,7 @@ redirect_from:
    The accuracy is 0.9796000123023987 after 45 epoch with learning rate 0.001 and batch size 100.
 ```
 
-- The `final accuracy` is **99.0100%** after `20 epoch.`
+- The final accuracy is **99.0100%** after 20 epoch.
 
 ```python
 Extracting MNIST_data/train-images-idx3-ubyte.gz
