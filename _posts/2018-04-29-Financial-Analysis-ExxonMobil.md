@@ -35,8 +35,8 @@ redirect_from:
 #### Table 5: Sector data
 <img width="756" alt="X555" src="https://user-images.githubusercontent.com/41026089/88499445-d641cc80-cf93-11ea-81a6-26e293a7b8e0.png">
 
-###### Table Note
-- The fiscal year ends Jan.
+### Table Note
+- The fiscal year ends Dec.
 - o/w - out of which
 - $ in millions (except per-share data)
 
