@@ -14,19 +14,19 @@ redirect_from:
 ### Shenhua
 Shenhua’s FY17 NP of RMB47.8bn is in line with the consensus (RMB47bn). The 35% hike almost entirely drove the 92% YoY growth in net profit in coal price in 2017. Profit contribution from other segments was slightly up (transportation, port, shipping), while power was down. 4Q net profit was down by 17% from 3Q despite a higher coal price environment due to impairment charges. While 1Q18 earnings growth momentum should remain decent on 18% YoY growth in coal price, earnings growth momentum should slow in 2Q18 and potentially decline in 2H18 as coal prices ease. I expect coal prices to fall to ~ RMB600/ton by the end of 2018.
 
-- **Strong 2017 profitability driven by higher coal prices:** Commercial coal production grew slightly from 289.6 mt in 2016 to 295.4 mt (1.9% YoY), and coal sales increased by 12.4% YoY and reached 443.8 mt. Coal revenue sales were up by 49% YoY, driven by ~35% YoY increase in ASP.
+- Strong 2017 profitability driven by higher coal prices: Commercial coal production grew slightly from 289.6 mt in 2016 to 295.4 mt (1.9% YoY), and coal sales increased by 12.4% YoY and reached 443.8 mt. Coal revenue sales were up by 49% YoY, driven by ~35% YoY increase in ASP.
   - 4Q17 net profit was up by 74% YoY driven by improvement in the coal segment;
   - Power segment: gross power generation was up 11.4%. However, profit was down 44% YoY due to a 27% increase in power costs;
   - Transportation segment: in 2017, transportation shipment was up by 27.6% YoY and reached a record high turnover volume of 273.0 billion tonne-km of the self-owned railway turnover volume.
 
-- **Cutting CAPEX:** Shenhua’s 2017 CAPEX was RMB26.2bn, substantially lower than the initial plan of RMB35bn. 2018 CAPEX guidance is lowered to RMB29bn.
+- Cutting CAPEX: Shenhua’s 2017 CAPEX was RMB26.2bn, substantially lower than the initial plan of RMB35bn. 2018 CAPEX guidance is lowered to RMB29bn.
   - 14% of the CAPEX will be spent on coal, 57% on power, and 28% on transportation;
   - Capex cuts seem to be an industry-wide phenomenon. I see this in leading coal, cement, and steel companies. As a result, cash flows improved substantially for most companies;
   - Free cash flow reached RMB79bn, of which operating cashflows are RMB 95bn.
 
-- **Dividend:** The company declared a final dividend of RMB0.91/shr, implying a payout ratio of 40.2% and a dividend yield of ~5%.
+- Dividend: The company declared a final dividend of RMB0.91/shr, implying a payout ratio of 40.2% and a dividend yield of ~5%.
 
-- **2018 guidance:** In 2018, Shenhua expects its commercial coal production will reach 290 million tons (down ~2% YoY), coal sales will be 430 million tons (down 3% YoY), and power output dispatch will be 248.6 billion kWh (up ~1% YoY).
+- 2018 guidance: In 2018, Shenhua expects its commercial coal production will reach 290 million tons (down ~2% YoY), coal sales will be 430 million tons (down 3% YoY), and power output dispatch will be 248.6 billion kWh (up ~1% YoY).
 
 ### 2018 Coal price outlook
 - While I highlighted in February that China's coal price should have peaked at about RMB750/ton, the speed of the fall was faster than the expectation. The thermal coal price fell by ~RMB100/ton (or 15%) (Figure 1).
