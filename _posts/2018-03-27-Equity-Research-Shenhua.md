@@ -39,8 +39,7 @@ Shenhua’s FY17 NP of RMB47.8bn is in line with the consensus (RMB47bn). The 35
 #### Figure 2: Average daily coal consumption of major IPPs in China: falling quickly from Jan-Feb high
 ![2](https://user-images.githubusercontent.com/41026089/80315952-f31a0880-87c8-11ea-8e04-34e6317a7167.JPG)
 
-Inventories at major IPPs are recovering to ~20 days after hitting a dangerously low level of <15 days in
-February. And current Qinghuangdao inventory of ~6.5mn ton is >20% higher than the same period last year (Figure 3).
+Current Qinghuangdao inventory of ~6.5mn ton is >20% higher than the same period last year (Figure 3).
 
 #### Figure 3: QHD Coal inventory: substantially higher than last year but lower than 2015 peak
 ![4](https://user-images.githubusercontent.com/41026089/80316067-9d922b80-87c9-11ea-8a9d-d910ac9d0f43.JPG)
