@@ -34,7 +34,7 @@ Shenhua’s FY17 NP of RMB47.8bn is in line with the consensus (RMB47bn). The 35
 #### Figure 1: QHD 5,500Kcal thermal coal price: fell to RMB645/ton (or down by 10% from peak)
 ![1](https://user-images.githubusercontent.com/41026089/80315840-3031cb00-87c8-11ea-8521-4c03aea49d81.JPG)
 
-- On the demand side, consumption from major IPPs has fallen quickly after the Chinese New Year, and as the temperature gradually normalized (Figure 2: Average daily coal consumption of major IPPs in China: falling quickly from Jan-Feb high).
+- On the demand side, consumption from major IPPs has fallen quickly after the Chinese New Year, and as the temperature gradually normalized (Figure 2).
 
 #### Figure 2: Average daily coal consumption of major IPPs in China: falling quickly from Jan-Feb high
 ![2](https://user-images.githubusercontent.com/41026089/80315952-f31a0880-87c8-11ea-8e04-34e6317a7167.JPG)
