@@ -39,22 +39,25 @@ Shenhua’s FY17 NP of RMB47.8bn is in line with the consensus (RMB47bn). The 35
 #### Figure 2: Average daily coal consumption of major IPPs in China: falling quickly from Jan-Feb high
 ![2](https://user-images.githubusercontent.com/41026089/80315952-f31a0880-87c8-11ea-8e04-34e6317a7167.JPG)
 
-- Current Qinghuangdao inventory of ~6.5mn ton is >20% higher than the same period last year (Figure 3).
+- Inventories at major IPPs are recovering to ~20 days after hitting a dangerously low level of <15 days in February (Figure 3). And current Qinghuangdao inventory of ~6.5mn ton is >20% higher than the same period last year (Figure 4).
 
-#### Figure 3: QHD Coal inventory: substantially higher than last year but lower than 2015 peak
+#### Figure 3: Major IPP's coal inventory: gradually building up in the past few weeks
+![3](https://user-images.githubusercontent.com/41026089/80316050-82bfb700-87c9-11ea-83db-d7ba1fe421b7.JPG)
+
+#### Figure 4: QHD Coal inventory: substantially higher than last year but lower than 2015 peak
 ![4](https://user-images.githubusercontent.com/41026089/80316067-9d922b80-87c9-11ea-8a9d-d910ac9d0f43.JPG)
 
 - On the raw coal production front, Jan-Feb 2018 production growth rebounded to ~6%, driven by the increase in Shaanxi and other provinces outside of the core production region.
 
 - With the increase in production growth and normalizing inventory, I believe coal prices will continue to fall throughout 2Q18.
 
-#### Figure 4: China's raw coal production: up by ~6% YoY in Jan-Feb 2018 driven by the increase in Shaanxi and other provinces
+#### Figure 5: China's raw coal production: up by ~6% YoY in Jan-Feb 2018 driven by the increase in Shaanxi and other provinces
 ![5](https://user-images.githubusercontent.com/41026089/80316193-404aaa00-87ca-11ea-94bf-231f3d1340af.JPG)
 
-#### Figure 5: China raw coal production: up by ~6% in Jan-Feb 2018 but still ~7% below 2015 peak
+#### Figure 6: China raw coal production: up by ~6% in Jan-Feb 2018 but still ~7% below 2015 peak
 ![6](https://user-images.githubusercontent.com/41026089/80316203-4c366c00-87ca-11ea-8744-8dee7c849d6c.JPG)
 
-#### Figure 6: China coal price forecast (QHD 5,500 Kcal)
+#### Figure 7: China coal price forecast (QHD 5,500 Kcal)
 ![7](https://user-images.githubusercontent.com/41026089/80316212-55273d80-87ca-11ea-8de2-1a30c6710bf0.JPG)
 
 ### Investment Thesis
